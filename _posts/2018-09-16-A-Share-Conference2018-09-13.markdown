@@ -1,0 +1,128 @@
+---
+layout: post
+title:  "2018-09-13内参"
+date:   2018-09-16 14:52:02 +0800
+categories: jekyll update
+---
+last update:2018-09-16 14:52:02
+# 增减持市值超过2000万: 
+ 
+
+ 总计: 增持：9938.43 万元;减持：20982.76 万元 
+ 
+|代码|名称|股价|股东|增减|数量|金额|占总股本比例|当前持股比例|变动开始日|变动截止日| 
+|:--:|:--:|:-------:|:---:|:---:|:---:|:---:|:---:|:---:|: 
+|601688|华泰证券|14.53|江苏汇鸿国际集团股份有限公司|减持|454.41|6602.64|0.0552|1.75|2018-09-03|2018-09-11|
+|002855|捷荣技术|9.18|深圳长城开发科技股份有限公司|减持|240.00|2203.20|1|6.5|2018-06-13|2018-09-10|
+|300355|蒙草生态|5.20|内蒙古蒙草生态环境(集团)股份有限公司员工持股计划|增持|507.16|2637.23|0.3158|3.58|2018-09-10|2018-09-10|
+|002168|深圳惠程|10.75|共青城信中利宝信投资合伙企业(有限合伙)|增持|207.64|2232.13|0.2554|9.97|2018-09-07|2018-09-07|
+ 
+ 
+ <br/> 
+ 
+# 上个交易日发布公告后上涨3%以上的股票: 
+ 
+[宝塔实业:关于地铁B型车轴箱轴承获得首批订单的公告](http://www.cninfo.com.cn/finalpage/2018-09-12/1205430598.PDF):上涨 4
+ 
+[利欧股份:关于签署框架协议暨股权收购的公告](http://www.cninfo.com.cn/finalpage/2018-09-12/1205430592.PDF):上涨 10
+ 
+# 附:公告: 
+ 
+1. [汇川技术:关于获得政府补助的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205434885.PDF)
+
+1. [浩云科技:关于公司与广州大学签订共建公共安全智能联合实验室框架协议书的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205434798.PDF)
+
+1. [立昂技术:关于核心技术人员离职的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205434639.PDF)
+
+1. [先进数通:关于办理应收账款保理业务的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205434029.PDF)
+
+1. [大烨智能:关于国家电网公司项目中标的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205433764.PDF)
+
+1. [吉宏股份:关于收购安徽维致环保纸品有限公司33%股权的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205433763.PDF)
+
+1. [裕同科技:关于董监高关联方购买公司股票的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205433755.PDF)
+
+1. [瑞特股份:关于对外投资设立参股公司的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205433440.PDF)
+
+1. [赢合科技:关于与LG化学签订采购协议的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432958.PDF)
+
+1. [楚江新材:中小板上市公司重大资产重组方案再次披露对照表](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432905.PDF)
+
+1. [银星能源:中铝宁夏能源集团有限公司拟转让其所持有的宁夏银仪风力发电有限责任公司股权项目资产评估明细表](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432848.PDF)
+
+1. [东软集团:关于收到广汽本田、东风本田定点通知的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432774.PDF)
+
+1. [法兰泰克:收购股权公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432744.PDF)
+
+1. [*ST椰岛:关于公开挂牌转让公司资产的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432707.PDF)
+
+1. [厦门国贸:关于联合受让证券公司股权的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432693.PDF)
+
+1. [正平股份:关于对外投资暨收购探矿权的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432645.PDF)
+
+1. [永泰能源:关于所属新疆吉木萨尔县双安煤矿关闭的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432619.PDF)
+
+1. [上海家化:关于政府补助情况的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432616.PDF)
+
+1. [花王股份:关于重大项目中标的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432598.PDF)
+
+1. [海汽集团:关于分公司收到行政复议决定书的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432596.PDF)
+
+1. [蒙草生态:关于收购阿拉善盟中野碧芳投资中心（有限合伙）持有的项目公司股权的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432568.PDF)
+
+1. [广东甘化:关于收购沈阳含能金属材料制造有限公司45%股权交易完成的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432564.PDF)
+
+1. [赛为智能:重大工程合同公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432476.PDF)
+
+1. [粤 水 电:关于潮水溪疏浚工程与乌石拦河闸引水工程设计施工总承包项目中标的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432461.PDF)
+
+1. [粤 水 电:关于签署湖北省恩施州车坝河水库引水工程施工总承包合同的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432460.PDF)
+
+1. [太极集团:关于公司药品藿香正气口服液获得印度尼西亚清真认证的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432446.PDF)
+
+1. [西水股份:保费收入公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432444.PDF)
+
+1. [吉药控股:重大资产购买预案摘要](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432378.PDF)
+
+1. [吉药控股:重大资产购买预案](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432377.PDF)
+
+1. [吉药控股:创业板上市公司重大资产重组方案首次披露对照表](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432372.PDF)
+
+1. [甘肃电投:关于杂木寺水电站停产的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432316.PDF)
+
+1. [万安科技:关于收到意向书的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432218.PDF)
+
+1. [渤海金控:关于“15渤租01”回售实施结果的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432195.PDF)
+
+1. [奥佳华:关于公司与韩国Bok Jung签署合作协议的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432174.PDF)
+
+1. [兰石重装:关于获得政府补助的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205432158.PDF)
+
+1. [*ST皇台:关于收到民事判决书的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431902.PDF)
+
+1. [老凤祥:股权转让协议](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431860.PDF)
+
+1. [中国人寿:保费收入公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431847.PDF)
+
+1. [华海药业:关于制剂产品盐酸二甲双胍缓释片获得美国FDA批准文号的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431793.PDF)
+
+1. [龙头股份:关于获得政府补助的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431791.PDF)
+
+1. [巨力索具:关于取得发明专利及实用新型专利证书的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431760.PDF)
+
+1. [空港股份:经理办公会议事规则](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431750.PDF)
+
+1. [上海建工:关于重大工程中标的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431543.PDF)
+
+1. [安通控股:关于获得政府补助的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431542.PDF)
+
+1. [天士力:关于公司产品纳入优先审评程序的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431525.PDF)
+
+1. [北特科技:关于成立北特汽车部件研究院的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431511.PDF)
+
+1. [三川智慧:关于转让星河环境部分股权的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431489.PDF)
+
+1. [华天科技:关于与马来西亚联合要约人签订《合作协议》的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431479.PDF)
+
+1. [兔 宝 宝:关于产业基金对外投资的公告](http://www.cninfo.com.cn/finalpage/2018-09-13/1205431473.PDF)
+
